@@ -1,0 +1,6 @@
+sequence,inlet_id,zone,design_flow_lps
+10,FW-A1,Harbor,80
+20,FW-B2,Civic,100
+30,FW-C3,Depot,50
+40,FW-D4,Gardens,60
+50,FW-E5,Hill,40
