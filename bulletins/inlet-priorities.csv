@@ -1,0 +1,6 @@
+sequence,inlet_id,zone,design_flow_lps,reading_id,observed_at,peak_flow_lps,depth_cm,technician,capacity_pct,status
+10,FW-A1,Harbor,80,RD-002,2026-09-02T06:15Z,85,17,Bea,106,OVERLOAD
+20,FW-B2,Civic,100,RD-003,2026-09-01T07:00Z,80,20,Chen,80,WATCH
+30,FW-C3,Depot,50,RD-006,2026-09-02T08:00Z,40,10,Fara,80,WATCH
+40,FW-D4,Gardens,60,RD-008,2026-09-03T09:00Z,30,8,Ivan,50,NORMAL
+50,FW-E5,Hill,40,,,,,,,UNSAMPLED
